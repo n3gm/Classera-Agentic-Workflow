@@ -216,3 +216,19 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# المتغيرات البيئية والبيانات السرية
+.env
+
+# المناهج ومجلدات البيانات
+Curriculum_PDFs/
+data/
+*.pdf
+
+# قواعد البيانات المتجهة (RAG)
+chroma_db/
+.chroma/
+
+# تقارير وملفات الأتمتة (Playwright)
+playwright-report/
+test-results/
